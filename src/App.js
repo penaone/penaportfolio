@@ -9,7 +9,7 @@ function App() {
   const [categories] = useState([
     {
       name: 'commercial',
-      description: 'Photos of grocery stores, food trucks, and other commercial projects',
+      description: 'My photos',
     },
     { name: 'portraits', description: 'Portraits of people in my life' },
     { name: 'food', description: 'Delicious delicacies' },
