@@ -1,6 +1,6 @@
 import React from 'react';
 import { capitalizeFirstLetter } from '../../utils/helpers';
-
+import logo from './logo.png'; // with import
 function Nav(props) {
   const {
     categories = [],
@@ -14,7 +14,7 @@ function Nav(props) {
     <header className="flex-row px-1">
       <h2>
         <a data-testid="link" href="/">
-          <span role="img" aria-label="camera"> 📸</span> Oh Snap!
+          <span role="img" aria-label="Computer"><img src={logo} alt="computer keyboard" /></span> Stephen Peña
         </a>
       </h2>
       <nav>
