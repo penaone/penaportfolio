@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Modal = ({ onClose, currentPhoto }) => {
-  const {name, category, description, index} = currentPhoto;
+const Modal = ({ onClose, currentProject }) => {
+  const {name, category, description, index} = currentProject;
 
   return (
     //JSX
