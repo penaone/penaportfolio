@@ -5,11 +5,11 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
+  --primary: #dd2514;
   --secondary: #F3A847;
   --tertiary: #B12704;
-  --light: #331f1f;
-  --dark: #196b91;
+  --light: #a31111;
+  --dark: #0e171b;
   --darker: #111111;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -27,7 +27,7 @@ body {
   min-height: 100%;
 }
 header {
-  background:#802424;
+  background-color:#802424;
 
 }
 
@@ -107,7 +107,7 @@ button {
   font-size: 1rem;
   text-decoration: none;
   padding: 0.25rem 1rem;
-  border-radius: .5rem;
+  border-radius: .5rem .2rem;
   border: none;
   outline: none;
   cursor: pointer;

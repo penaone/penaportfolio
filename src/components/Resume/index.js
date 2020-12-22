@@ -6,7 +6,7 @@ import resume from '../../assets/small/resume/resume.pdf'
 function Resume() {
   return (
     <section className="my-5">
-      <img src={coverImage} className="my-2" style={{ width: "25%" }} alt="cover" />
+      <img src={coverImage} className="my-2" style={{ width: "15%" }} alt="cover" />
       <h1 id="resume">Marketable Skills</h1>
       <div>
       <a className="font-bold " href={resume} download>Download Resume</a>

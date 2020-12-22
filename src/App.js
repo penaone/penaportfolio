@@ -4,6 +4,9 @@ import About from './components/About';
 import Gallery from './components/Gallery';
 import ContactForm from './components/Contact';
 import Resume from './components/Resume';
+import Footer from './components/Footer';
+import './Footer.css';
+import './App.css';
 
 
 function App() {
@@ -42,6 +45,12 @@ function App() {
 ) : (
     <ContactForm></ContactForm>
   )}
+  <div className="page-container">
+    <div className="content-wrap">
+
+    </div>
+  </div>
+  <Footer/>
       </main>
     </div>
   );
