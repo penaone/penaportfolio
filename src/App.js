@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Title from './components/Title';
 import Nav from './components/Nav';
 import About from './components/About';
 import Gallery from './components/Gallery';
@@ -9,8 +10,10 @@ import './Footer.css';
 import './App.css';
 
 
+
 function App() {
   const [categories] = useState([
+    <Title></Title>,
     { name: 'about Me',
       description: <About></About>},
     {
