@@ -7,13 +7,15 @@ import ContactForm from './components/Contact';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
 import './Footer.css';
+import './Title.css'
 import './App.css';
+
 
 
 
 function App() {
   const [categories] = useState([
-    <Title></Title>,
+    
     { name: 'about Me',
       description: <About></About>},
     {
@@ -32,6 +34,9 @@ function App() {
   const [contactSelected, setContactSelected] = useState(false);
   return (
     <div>
+      <div>
+      <Title></Title>,
+      </div>
       <Nav
         categories={categories}
         setCurrentCategory={setCurrentCategory}
@@ -53,8 +58,9 @@ function App() {
 
     </div>
   </div>
-  <Footer/>
+ 
       </main>
+      <Footer/>
     </div>
   );
 }

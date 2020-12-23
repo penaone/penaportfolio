@@ -14,7 +14,7 @@ function Nav(props) {
     <header className="flex-row px-1">
       <h2>
         <a data-testid="link" href="/">
-          <span role="img" aria-label="Computer"><img src={logo} alt="computer keyboard" /></span> Stephen Peña
+          <span role="img" aria-label="Computer"><img src={logo} alt="computer keyboard" /></span>
         </a>
       </h2>
       <nav>

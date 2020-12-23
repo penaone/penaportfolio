@@ -1,9 +1,8 @@
 import React from 'react'
 function Title() {
   return (
-  <div>
-    <h1>Stephen Pena Web Portfolio</h1>
-
+  <div className="headerbox">
+    <h1>Stephen Peña Web Portfolio</h1>
   </div>
   )
 }
