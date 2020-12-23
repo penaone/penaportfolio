@@ -1,14 +1,12 @@
-footer{
+.headerbox {
   color: lightgoldenrodyellow;
-  background: rgb(51, 45, 40);
+  background-color: #0e171b;
   padding-top: 1cm;  position: relative;
   bottom: 0;
   width: 100%;
   border: 2px solid red;
   text-align: center;
-  display: flex;
-  justify-content: space-evenly;
-  padding: 10px;
-  border-radius: 20px 50px
+  padding: 0px;
+  border-radius: 20px 20px
 
 }

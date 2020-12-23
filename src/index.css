@@ -6,8 +6,8 @@ main {
 }
 :root {
   --primary: #dd2514;
-  --secondary: #F3A847;
-  --tertiary: #B12704;
+  --secondary: #9c6215;
+  --tertiary: #221917;
   --light: #a31111;
   --dark: #0e171b;
   --darker: #111111;
@@ -26,7 +26,7 @@ html,
 body {
   min-height: 100%;
 }
-header {
+title {
   background-color:#802424;
 
 }
@@ -38,8 +38,8 @@ body {
   line-height: 1.5;
   font-size: 20px;
   letter-spacing: .1em;
-  background: var(--dark);
-  color: var(--light);
+  background: var(--secondary);
+  color: #0e171b;
   font-family: 'garamond', cursive;
 
 }
@@ -217,6 +217,10 @@ textarea {
 .px-1 {
   padding-right: var(--spacing-one);
   padding-left: var(--spacing-one);
+  border-radius: 20px 50px;
+  background-color: black;
+  color: white;
+  border: 2px solid red;
 }
 
 .px-2 {
@@ -262,7 +266,7 @@ button {
 
 a {
 	border-radius: 5px;
-	color: var(--primary);
+	color: black;
 	font-weight: 600;
 	padding: 2px 4px;
 	margin-left: -2px;
@@ -272,4 +276,7 @@ a {
 
 .navActive {
   color: var(--secondary);
+}
+.download {
+  border:rgb(228, 46, 1);
 }
