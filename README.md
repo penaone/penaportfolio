@@ -21,7 +21,7 @@ badges();
 
 
 ## Description:
-This is a react Single Web Page Application that is my personal Professional Portfolio. It has alink to my resume, a number of web application links and a short biography.
+This is a react Single Web Page Application that is my personal Professional Portfolio. It has a link to my resume, a number of web application links and a short biography.
 
 
 ## Installation:
