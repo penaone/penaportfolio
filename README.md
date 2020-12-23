@@ -16,6 +16,7 @@ badges();
 * [Contributors](#contributors)
 * [Tests](#tests)
 * [Contact](#contact)
+* [Deployed](#deployed)
 * [OriginalReadme](original_readme_info)
 
 
@@ -47,6 +48,9 @@ No tests were required. A person can download jest into the repo and build any t
 Contact me:
 Github: [https://github.com/penaone](https://github.com/penaone)
 Email: [penaone@gmail.com](penaone@gmail.com)
+
+## Deployed
+https://penaone.github.io/penaportfolio/
 
 ## Original_readme_info
 
