@@ -1,19 +1,30 @@
 import React, { useState } from 'react';
+import Title from './components/Title';
 import Nav from './components/Nav';
 import About from './components/About';
 import Gallery from './components/Gallery';
 import ContactForm from './components/Contact';
+import Resume from './components/Resume';
+import Footer from './components/Footer';
+import './Footer.css';
+import './App.css';
+
 
 
 function App() {
   const [categories] = useState([
+    <Title></Title>,
+    { name: 'about Me',
+      description: <About></About>},
     {
-      name: 'commercial',
-      description: 'My photos',
+      name: 'Portfolio',
+      description: 'My projects',
     },
-    { name: 'portraits', description: 'Portraits of people in my life' },
-    { name: 'food', description: 'Delicious delicacies' },
-    { name: 'landscape', description: 'Fields, farmhouses, waterfalls, and the beauty of nature' },
+    
+    { name: 'resume',
+      description: <Resume></Resume> },
+
+    
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
@@ -32,11 +43,17 @@ function App() {
       {!contactSelected ? (
   <>
     <Gallery currentCategory={currentCategory}></Gallery>
-    <About></About>
+    
   </>
 ) : (
     <ContactForm></ContactForm>
   )}
+  <div className="page-container">
+    <div className="content-wrap">
+
+    </div>
+  </div>
+  <Footer/>
       </main>
     </div>
   );
