@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/penaportfolio/static/css/main.9dc7ab75.chunk.css",
-    "main.js": "/penaportfolio/static/js/main.8c9718cd.chunk.js",
-    "main.js.map": "/penaportfolio/static/js/main.8c9718cd.chunk.js.map",
+    "main.js": "/penaportfolio/static/js/main.497b0ac2.chunk.js",
+    "main.js.map": "/penaportfolio/static/js/main.497b0ac2.chunk.js.map",
     "runtime-main.js": "/penaportfolio/static/js/runtime-main.74987c25.js",
     "runtime-main.js.map": "/penaportfolio/static/js/runtime-main.74987c25.js.map",
     "static/js/2.6cb2f50b.chunk.js": "/penaportfolio/static/js/2.6cb2f50b.chunk.js",
@@ -11,10 +11,10 @@
     "static/css/main.9dc7ab75.chunk.css.map": "/penaportfolio/static/css/main.9dc7ab75.chunk.css.map",
     "static/js/2.6cb2f50b.chunk.js.LICENSE.txt": "/penaportfolio/static/js/2.6cb2f50b.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/penaportfolio/static/media/0.c93baad4.jpg",
-    "static/media/1.jpg": "/penaportfolio/static/media/1.63c4a51d.jpg",
+    "static/media/1.jpg": "/penaportfolio/static/media/1.9be35867.jpg",
     "static/media/2.jpg": "/penaportfolio/static/media/2.f76679ed.jpg",
-    "static/media/3.jpg": "/penaportfolio/static/media/3.dd376ef9.jpg",
-    "static/media/4.jpg": "/penaportfolio/static/media/4.c93baad4.jpg",
+    "static/media/3.jpg": "/penaportfolio/static/media/3.a03ecb79.jpg",
+    "static/media/4.jpg": "/penaportfolio/static/media/4.8e9e652c.jpg",
     "static/media/5.jpg": "/penaportfolio/static/media/5.5be32c3b.jpg",
     "static/media/linkedin.0f27814b.jpg": "/penaportfolio/static/media/linkedin.0f27814b.jpg",
     "static/media/resume.087f7c34.pdf": "/penaportfolio/static/media/resume.087f7c34.pdf",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.74987c25.js",
     "static/js/2.6cb2f50b.chunk.js",
     "static/css/main.9dc7ab75.chunk.css",
-    "static/js/main.8c9718cd.chunk.js"
+    "static/js/main.497b0ac2.chunk.js"
   ]
 }
