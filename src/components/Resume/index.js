@@ -13,7 +13,7 @@ function Resume() {
       <img src={coverImage} className="my-2" style={{ width: "15%" }} alt="cover" />
       <h1 id="resume">Marketable Skills</h1>
       <div>
-      <button className="download" style={buttonStyle} href={resume} download>Download Resume</button>
+     <button> <a className="download" style={buttonStyle} href={resume} download>Download Resume</a> </button>
         <ul>
           <li>Mature, Teacher, Web Developer, Accountant</li>
           <li>Full Stack Web Developer</li>
