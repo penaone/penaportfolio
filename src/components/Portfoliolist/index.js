@@ -21,6 +21,7 @@ const PortfolioList = ({ category }) => {
       
       category: 'Portfolio',
       links:  'https://richardflores009.github.io/Munch-A-Movie/',
+      github: 'https://github.com/Richardflores009/Munch-A-Movie',
       image: MaM,
       name: 'Munch A Movie'
       
@@ -101,10 +102,10 @@ const PortfolioList = ({ category }) => {
       <div className="flex-row">
         {currentProjects.map((image, i) => (
           <a href ={image.links} target='_blank' rel='noreferrer'key= {i}><img
+          
             src={require(`../../assets/small/${category}/${i}.jpg`).default}
             alt={image.name}
             className="img-thumbnail mx-1"
-            
             key={image.name}
           /></a>
         ))}
