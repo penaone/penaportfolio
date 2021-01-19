@@ -8,9 +8,7 @@ import RunBdy from '../../assets/small/Portfolio/5.jpg';
 
 
 
-const PortfolioList = ({ category }) => {
-  
-    
+const PortfolioList = ({ category }) => { 
     
   
 
@@ -31,6 +29,7 @@ const PortfolioList = ({ category }) => {
       
       category: 'Portfolio',
       links:  'https://my-haus.herokuapp.com/',
+      github: 'https://github.com/Richardflores009/MyHaus',
       image: MyHaus,
       name: 'MyHaus - Landlord Tenant Database'
     },
@@ -38,13 +37,15 @@ const PortfolioList = ({ category }) => {
       
       category: 'Portfolio',
       links:  "https://penaone.github.io/passwordchallenge/",
+      github: 'https://github.com/penaone/passwordchallenge',
       image: Pssword,
       name:'Password Genarator'
     },
     {
       
       category: 'Portfolio',
-      links:  'powerful-castle-69439.herokuapp.com',
+      links:  'https://powerful-castle-69439.herokuapp.com/',
+      github: 'https://github.com/Richardflores/Mamasita-Empanadas',
       image: MamaEmp,
       name: 'Mamasitas Empanadas'
     },
@@ -52,6 +53,7 @@ const PortfolioList = ({ category }) => {
       
       category: 'Portfolio',
       links:  'https://penaone.github.io/NewCodingquiz',
+      github: 'https://github.com/penaone/NewCodingquiz',
       image: NewCode,
       name: 'Coding Quiz'
     },
@@ -59,6 +61,7 @@ const PortfolioList = ({ category }) => {
       
       category: 'Portfolio',
       links:  'https://penaone.github.io/run-buddy',
+      github: 'https://github.com/penaone/run-buddy',
       image: RunBdy,
       name: 'Run Buddy'
     },
