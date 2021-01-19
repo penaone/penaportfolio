@@ -104,13 +104,17 @@ const PortfolioList = ({ category }) => {
     
       <div className="flex-row">
         {currentProjects.map((image, i) => (
-          <a href ={image.links} target='_blank' rel='noreferrer'key= {i}><img
-          
+          <div key= {i} style= {{textAlign:"center"}}>
+          <a href ={image.links} target='_blank' rel='noreferrer'><img
+           style={{marginBottom:'0px'}}
             src={require(`../../assets/small/${category}/${i}.jpg`).default}
             alt={image.name}
             className="img-thumbnail mx-1"
             key={image.name}
           /></a>
+          <a href ={image.github} target='_blank' rel='noreferrer'><p style={{marginBottom:'0px'}}>Github Link</p></a>
+          <a href ={image.links} target='_blank' rel='noreferrer'><p>Deployed Link</p></a>
+          </div>
         ))}
       </div>
     </div>
