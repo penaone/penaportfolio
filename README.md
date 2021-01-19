@@ -15,6 +15,7 @@ badges();
 * [License](#license)
 * [Contributors](#contributors)
 * [Tests](#tests)
+* [Screenshots](#screenshots)
 * [Contact](#contact)
 * [Deployed](#deployed)
 
@@ -42,8 +43,13 @@ Stephen Peña
 ## Tests:
 No tests were required. A person can download jest into the repo and build any tests they want on the different components.
 
+## Screenshots:
+![Alt text](/src/assets/small/README/Aboutme.jpg?raw=true "Aboutme")
+![Alt text](/src/assets/small/README/Portfolio.jpg?raw=true "Portfolio")
+![Alt text](/src/assets/small/README/resume.jpg?raw=true "Aboutme")
 
-## Contact
+
+## Contact:
 Contact me:
 Github: [https://github.com/penaone](https://github.com/penaone)
 Email: [penaone@gmail.com](penaone@gmail.com)
