@@ -44,7 +44,7 @@ const PortfolioList = ({ category }) => {
     {
       
       category: 'Portfolio',
-      links:  'https://powerful-castle-69439.herokuapp.com/',
+      links:  'https://mamasita-empanadas.herokuapp.com/',
       github: 'https://github.com/Richardflores/Mamasita-Empanadas',
       image: MamaEmp,
       name: 'Mamasitas Empanadas'
