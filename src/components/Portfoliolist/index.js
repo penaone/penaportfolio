@@ -12,7 +12,7 @@ const PortfolioList = ({ category }) => {
     
   
 
-    
+    // MY portfolios pages
 
   const [projects] = useState([
     {
