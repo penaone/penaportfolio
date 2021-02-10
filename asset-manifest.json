@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/penaportfolio/static/css/main.9dc7ab75.chunk.css",
-    "main.js": "/penaportfolio/static/js/main.7dbb3653.chunk.js",
-    "main.js.map": "/penaportfolio/static/js/main.7dbb3653.chunk.js.map",
+    "main.js": "/penaportfolio/static/js/main.ecf05834.chunk.js",
+    "main.js.map": "/penaportfolio/static/js/main.ecf05834.chunk.js.map",
     "runtime-main.js": "/penaportfolio/static/js/runtime-main.74987c25.js",
     "runtime-main.js.map": "/penaportfolio/static/js/runtime-main.74987c25.js.map",
     "static/js/2.6cb2f50b.chunk.js": "/penaportfolio/static/js/2.6cb2f50b.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.74987c25.js",
     "static/js/2.6cb2f50b.chunk.js",
     "static/css/main.9dc7ab75.chunk.css",
-    "static/js/main.7dbb3653.chunk.js"
+    "static/js/main.ecf05834.chunk.js"
   ]
 }
