@@ -66,31 +66,7 @@ const PortfolioList = ({ category }) => {
       name: 'Run Buddy'
     },
    
-    {
-      
-      category: 'resume',
-    },
-      
-    {
-      
-      category: 'resume',
-      
-    },
-    {
-      
-      category: 'resume',
-    },
-      
-    {
-      
-      category: 'resume',
-      
-    },
-    {
-      
-      category: 'resume',
-      
-    },
+    
   ]);
 
   const currentProjects = projects.filter((project) => project.category === category);
