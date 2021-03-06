@@ -14,7 +14,8 @@ function About() {
            Business and Economics at the High School level for 18 years. I am a Father of four children and have a desire
             to work the the Web Development field for the next several years.
         </p>
-        <p>Project Summaries:
+        <h2>Project Summaries:</h2>
+        <p>
             The first project is Munch-A-Movie. This is a group project using Javascript, html and Css along with Jquery. 
             We fetched two web API's one a movie api and another a recipe API. This site allows a person to search a movie and 
             have upto 3 recipes to choose from be fetched as well.

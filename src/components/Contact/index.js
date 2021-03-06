@@ -35,7 +35,8 @@ function ContactForm() {
 
   return (
     <section>
-      <div>Personal email address: penaone@gmail.com</div>
+      <h3>Personal email address: </h3>
+      <h4>penaone@gmail.com</h4>
       <h1 data-testid="h1tag">Contact me</h1>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
