@@ -21,6 +21,7 @@ function App() {
     {
       name: 'Portfolio',
       description: 'My projects',
+      
     },
     
     { name: 'resume',

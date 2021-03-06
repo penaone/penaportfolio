@@ -16,10 +16,10 @@ const PortfolioList = ({ category }) => {
 
   const [projects] = useState([
     {
-      
+    
       category: 'Portfolio',
-      links:  'https://richardflores009.github.io/Munch-A-Movie/',
-      github: 'https://github.com/Richardflores009/Munch-A-Movie',
+      links:  'https://penaone.github.io/M-A-M/',
+      github: 'https://github.com/penaone/M-A-M',
       image: MaM,
       name: 'Munch A Movie'
       
