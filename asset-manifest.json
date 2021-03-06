@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/penaportfolio/static/css/main.9dc7ab75.chunk.css",
-    "main.js": "/penaportfolio/static/js/main.cab1e285.chunk.js",
-    "main.js.map": "/penaportfolio/static/js/main.cab1e285.chunk.js.map",
+    "main.css": "/penaportfolio/static/css/main.6d7294aa.chunk.css",
+    "main.js": "/penaportfolio/static/js/main.821b2d7e.chunk.js",
+    "main.js.map": "/penaportfolio/static/js/main.821b2d7e.chunk.js.map",
     "runtime-main.js": "/penaportfolio/static/js/runtime-main.74987c25.js",
     "runtime-main.js.map": "/penaportfolio/static/js/runtime-main.74987c25.js.map",
     "static/js/2.6cb2f50b.chunk.js": "/penaportfolio/static/js/2.6cb2f50b.chunk.js",
     "static/js/2.6cb2f50b.chunk.js.map": "/penaportfolio/static/js/2.6cb2f50b.chunk.js.map",
     "index.html": "/penaportfolio/index.html",
-    "static/css/main.9dc7ab75.chunk.css.map": "/penaportfolio/static/css/main.9dc7ab75.chunk.css.map",
+    "static/css/main.6d7294aa.chunk.css.map": "/penaportfolio/static/css/main.6d7294aa.chunk.css.map",
     "static/js/2.6cb2f50b.chunk.js.LICENSE.txt": "/penaportfolio/static/js/2.6cb2f50b.chunk.js.LICENSE.txt",
     "static/media/0.jpg": "/penaportfolio/static/media/0.7da0cb94.jpg",
     "static/media/1.jpg": "/penaportfolio/static/media/1.fc19c53f.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.74987c25.js",
     "static/js/2.6cb2f50b.chunk.js",
-    "static/css/main.9dc7ab75.chunk.css",
-    "static/js/main.cab1e285.chunk.js"
+    "static/css/main.6d7294aa.chunk.css",
+    "static/js/main.821b2d7e.chunk.js"
   ]
 }
