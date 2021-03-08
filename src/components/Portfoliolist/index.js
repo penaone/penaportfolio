@@ -54,7 +54,7 @@ const PortfolioList = ({ category }) => {
       
       category: 'Portfolio',
       links:  'https://mamasita-empanadas.herokuapp.com/',
-      github: 'https://github.com/Richardflores/Mamasita-Empanadas',
+      github: 'https://github.com/Richardflores009/Mamasita-Empanadas',
       image: MamaEmp,
       name: 'Mamasitas Empanadas',
       summary: Sum4
