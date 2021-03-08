@@ -7,7 +7,7 @@ import ContactForm from './components/Contact';
 import Resume from './components/Resume';
 import Footer from './components/Footer';
 import './Footer.css';
-import './Title.css'
+import './Title.css';
 import './App.css';
 
 
@@ -20,8 +20,8 @@ function App() {
       description: <About></About>},
     {
       name: 'Portfolio',
-      description: 'My projects',
-      
+      description: <h3>My projects</h3>,
+            
     },
     
     { name: 'resume',
@@ -49,6 +49,9 @@ function App() {
       {!contactSelected ? (
   <>
     <Gallery currentCategory={currentCategory}></Gallery>
+    
+<div>
+</div>
     
   </>
 ) : (
