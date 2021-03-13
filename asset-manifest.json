@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/penaportfolio/static/css/main.6d7294aa.chunk.css",
-    "main.js": "/penaportfolio/static/js/main.6d3945fd.chunk.js",
-    "main.js.map": "/penaportfolio/static/js/main.6d3945fd.chunk.js.map",
+    "main.js": "/penaportfolio/static/js/main.e1770b86.chunk.js",
+    "main.js.map": "/penaportfolio/static/js/main.e1770b86.chunk.js.map",
     "runtime-main.js": "/penaportfolio/static/js/runtime-main.74987c25.js",
     "runtime-main.js.map": "/penaportfolio/static/js/runtime-main.74987c25.js.map",
     "static/js/2.69ae7e83.chunk.js": "/penaportfolio/static/js/2.69ae7e83.chunk.js",
@@ -20,13 +20,13 @@
     "static/media/Portfolio.jpg": "/penaportfolio/static/media/Portfolio.24fd82a6.jpg",
     "static/media/linkedin.0f27814b.jpg": "/penaportfolio/static/media/linkedin.0f27814b.jpg",
     "static/media/resume.jpg": "/penaportfolio/static/media/resume.04466108.jpg",
-    "static/media/resume.29b0e03b.pdf": "/penaportfolio/static/media/resume.29b0e03b.pdf",
+    "static/media/resume.df56f845.pdf": "/penaportfolio/static/media/resume.df56f845.pdf",
     "static/media/stephen-image.b1e2be46.jpg": "/penaportfolio/static/media/stephen-image.b1e2be46.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.74987c25.js",
     "static/js/2.69ae7e83.chunk.js",
     "static/css/main.6d7294aa.chunk.css",
-    "static/js/main.6d3945fd.chunk.js"
+    "static/js/main.e1770b86.chunk.js"
   ]
 }
